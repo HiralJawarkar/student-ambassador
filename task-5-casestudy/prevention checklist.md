@@ -24,6 +24,4 @@
 **Cyber Crime Helpline** | **1930** — Call immediately after financial fraud for the best chance of freezing funds |
 **Your Bank's Helpline** | Report unauthorised transactions within 24 hours to limit liability |
 
-**Act within the first hour** of a UPI fraud — calling **1930** quickly can help authorities freeze the fraudulent account before money is transferred further.
-
-*Prepared by: [Your Name] | B.Tech Bio-Engineering, 1st Year | VIT Bhopal University*
+**Act within the first hour** of a UPI fraud — calling **1930** quickly can help authorities freeze the fraudulent account before money is transferred further
